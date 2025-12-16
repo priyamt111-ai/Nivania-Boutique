@@ -38,7 +38,7 @@ const Footer = () => {
           {/* Brand Column */}
           <div className="lg:col-span-2">
             <a href="#" className="font-heading text-2xl font-semibold tracking-wide">
-              ÉLÉGANCE
+              Nivania
             </a>
             <p className="text-muted-foreground mt-4 max-w-sm">
               Curating timeless elegance for the modern woman. Discover sophisticated pieces that define your unique style.
